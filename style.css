@@ -106,3 +106,7 @@ label{
     top: 4.3em;
     left: 15em;
 }
+.form-label{
+    width: 100px;
+    height: 30px; 
+}
