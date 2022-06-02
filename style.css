@@ -1,0 +1,108 @@
+.col-sm-5{
+    width: 30%;
+    margin-top: 13%;
+    height: 50%;
+    border-radius:3%;
+    background-color: #EFEFEF;
+}
+.img-thumbnail{
+    margin: 20%;
+}
+.h3{
+    position: relative;
+    top: 10%;
+    left: 10%;
+    font-size: 110%;
+    margin-bottom: 30%;
+}
+a{
+    text-decoration: none;
+    color: orange;
+}
+.p-1{
+    position: relative;
+    top: 12%;
+    left: 10%;
+    font-size: 90%;
+    margin-bottom: 30%;
+    text-decoration: line-through;
+}
+.p-2{
+   display: inline-block;
+   position: relative;
+   left: 10%;
+}
+.p-3{
+    position: relative;
+    top: 0.1em;
+    left: 4.5em;
+    margin-bottom: 10em;
+    font-weight: 700;
+}
+.p-4{
+    position: relative;
+    top: 3em;
+    left: 4em;
+    margin: 0px;
+}
+.p-5{
+    position: absolute;
+    top: 58em;
+    left: 34em;
+}
+h1{
+    position: relative;
+    top: 1%;
+    left: 10%;
+}
+.tab{
+    padding-left: 8rem;
+}
+.tabi{
+    padding-left: 0.5em;
+}
+label{
+    font-size: 0.8em;
+    font-weight: 600;
+}
+.in1{
+    width: 29em;
+    height: 3.5em;
+}
+.in2{
+    width: 20em;
+    height: 2.3em;
+}
+.in3{
+    background-color: orange;
+    border-radius: 0.9em;
+    border: none;
+    width: 10em;
+    height: 4em;
+    color: #fff;
+    position: absolute;
+    top: 55em;
+    left: 40em;
+
+}
+.r-1{
+    position: absolute;
+    top: 12.2em;
+    left: 5.6em;
+}
+.r-2{
+    position: absolute;
+    top: 26em;
+    left: 5.6em;
+}
+.col-md-4{
+    position: absolute;
+    top: 40em;
+    left: 5em;
+    width: 10%;
+}
+.col-md-2{
+    position: relative;
+    top: 4.3em;
+    left: 15em;
+}
