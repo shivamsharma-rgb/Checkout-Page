@@ -1,24 +1,19 @@
-.h1{
-    position: absolute;
-    top: 9%;
-    left: 6.3%;
-}
 .col-sm-5{
-    width: 30em;
+    width: 30%;
     margin-top: 13%;
-    height: 35em;
+    height: 50%;
     border-radius:3%;
     background-color: #EFEFEF;
 }
 .img-thumbnail{
-    margin: 15%;
+    margin: 20%;
 }
 .h3{
     position: relative;
     top: 10%;
     left: 10%;
     font-size: 110%;
-    
+    margin-bottom: 30%;
 }
 a{
     text-decoration: none;
@@ -39,14 +34,14 @@ a{
 }
 .p-3{
     position: relative;
-    top: 3.8em;
+    top: 0.1em;
     left: 4.5em;
     margin-bottom: 10em;
     font-weight: 700;
 }
 .p-4{
-    position: absolute;
-    top: 45em;
+    position: relative;
+    top: 3em;
     left: 4em;
     margin: 0px;
 }
@@ -55,7 +50,11 @@ a{
     top: 58em;
     left: 34em;
 }
-
+h1{
+    position: relative;
+    top: 1%;
+    left: 10%;
+}
 .tab{
     padding-left: 8rem;
 }
@@ -103,11 +102,11 @@ label{
     width: 10%;
 }
 .col-md-2{
-    position: absolute;
-    top: 40.2em;
+    position: relative;
+    top: 4.3em;
     left: 15em;
 }
 .form-label{
     width: 100px;
-    height: 10px;
+    height: 30px; 
 }
