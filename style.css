@@ -1,5 +1,5 @@
 .col-sm-5{
-    width: 30%;
+    width: 35em;
     margin-top: 13%;
     height: 50%;
     border-radius:3%;
@@ -46,8 +46,8 @@ a{
     margin: 0px;
 }
 .p-5{
-    position: absolute;
-    top: 58em;
+    position: relative;
+    top: 15em;
     left: 34em;
 }
 h1{
@@ -80,8 +80,8 @@ label{
     width: 10em;
     height: 4em;
     color: #fff;
-    position: absolute;
-    top: 55em;
+    position: relative;
+    top: 15em;
     left: 40em;
 
 }
@@ -103,10 +103,10 @@ label{
 }
 .col-md-2{
     position: relative;
-    top: 4.3em;
+    top: 5em;
     left: 15em;
 }
 .form-label{
     width: 100px;
-    height: 30px; 
+    height: 10px; 
 }
